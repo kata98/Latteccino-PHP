@@ -1,0 +1,178 @@
+@font-face {
+    font-family: 'Cormorant Garamond', serif;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#tabela1 {
+    font-family: 'Cormorant Garamond', serif;
+    width: 100%;
+    text-align: left;
+    padding: 5px;
+    font-size: 20px;
+}
+
+#tabela1 th {
+    font-family: 'Cormorant Garamond', serif;
+    background-color: #FEC88F;
+    border-bottom: 1px solid;
+    padding: 5px;
+}
+
+#tabela1 tr {
+    padding: 5px;
+}
+
+#treci {
+    width: 1350px;
+    margin: 0px auto;
+    padding-top: 40px;
+}
+
+#tabela {
+    font-family: 'Cormorant Garamond', serif;
+    width: 100%;
+    text-align: left;
+    padding: 5px;
+    font-size: 20px;
+}
+
+#tabela a {
+    text-decoration: none;
+    color: black;
+}
+
+#tabela a:hover {
+    color: #F9A74F;
+}
+
+#menu a {
+    text-decoration: none;
+    color: black;
+}
+
+#tabela th {
+    font-family: 'Cormorant Garamond', serif;
+    background-color: #FEC88F;
+    border-bottom: 1px solid;
+    padding: 5px;
+}
+
+#tabela tr {
+    padding: 5px;
+}
+
+h2 {
+    font-weight: 400;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 50px;
+    text-align: center;
+    width: 100%;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+h1 {
+    font-weight: 400;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 50px;
+    text-align: center;
+    width: 100%;
+    color: white;
+}
+
+#red {
+    width: 100%;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.promena {
+    font-size: 18px;
+    font-family: 'Cormorant Garamond-Bold', serif;
+    letter-spacing: 2px;
+    padding-right: 25px;
+}
+
+#menu .promena:hover {
+    color: #F9A74F;
+}
+
+#drugi a {
+    text-decoration: none;
+    color: black;
+}
+
+#drugi .promena {
+    font-size: 15px;
+    font-family: 'Cormorant Garamond-Bold', serif;
+    letter-spacing: 2px;
+}
+
+#drugi .promena:hover {
+    color: #F9A74F;
+}
+
+#booking {
+    width: 100%;
+}
+
+.naslov,
+.cena,
+.opis,
+.slika {
+    margin-bottom: 5px;
+    width: 95%;
+    background-color: white;
+    color: gray;
+    font-size: 15px;
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing: 2px;
+    padding: 7px 20px;
+}
+
+#paginacija {
+    width: 100%;
+    padding-bottom: 50px;
+    letter-spacing: 5px;
+}
+
+#sortiranje1 {
+    width: 50%;
+    padding-bottom: 30px;
+    float: right;
+}
+
+#porudzbina {
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+.ddl {
+    margin-bottom: 5px;
+    width: 50%;
+    background-color: white;
+    color: gray;
+    font-size: 15px;
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing: 2px;
+    padding: 7px 20px;
+    margin-bottom: 50px;
+}
+
+#naziv {
+    float: left;
+    margin-bottom: 5px;
+    width: 40%;
+    background-color: white;
+    color: gray;
+    font-size: 15px;
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing: 2px;
+    padding: 7px 20px;
+    margin-bottom: 50px;
+}
